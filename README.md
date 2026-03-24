@@ -37,10 +37,4 @@ My day is AWS, Kubernetes, Terraform, and GitOps. My job is making sure engineer
 
 ---
 
-### activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/cloudprobe)
-
----
-
 <sub>infrastructure is invisible when it works · that's the goal</sub>
