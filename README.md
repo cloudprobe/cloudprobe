@@ -29,4 +29,4 @@ Kubernetes at scale. Multi-cloud infrastructure. Real-time data pipelines. Platf
 
 ---
 
-<sub>infrastructure is invisible when it works · that's the goal</sub>
+<sub>infrastructure is invisible when it works · that's the goal · [dotfiles](https://github.com/cloudprobe/dotfiles)</sub>
