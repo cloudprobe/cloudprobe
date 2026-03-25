@@ -2,7 +2,7 @@
 $ whoami
 > rajit shah — staff production engineer
 > palo alto networks · dallas, tx
-> uptime: 10+ years in infrastructure
+> uptime: 10+ years in production infrastructure
 ```
 
 ---
@@ -11,29 +11,21 @@ $ whoami
 
 I keep large-scale systems alive, observable, and boring — boring in the best way.
 
-My day is AWS, Kubernetes, Terraform, and GitOps. My job is making sure engineers ship without thinking about infra, and that on-call doesn't wake anyone up at 3am.
+Kubernetes at scale. Multi-cloud infrastructure. Real-time data pipelines. Platforms that make engineers faster. That's the job.
 
 ---
 
-### the stack i live in
+### the stack
 
-| Layer | Tools |
-|---|---|
-| Cloud | AWS — EKS, EC2, RDS, S3, IAM, VPC |
-| Orchestration | Kubernetes · Helm |
-| GitOps | Flux |
-| Infra as Code | Terraform |
-| Observability | Prometheus · Grafana · OpenTelemetry |
-| Pipelines | GitHub Actions · ArgoCD |
-| Language | Go · Shell · Python |
+`AWS` `Kubernetes` `Terraform` `Go` `Kafka` `Flink`
+`Datadog` `Grafana` `Tempo` `Vault` `Backstage` `Python`
 
 ---
 
 ### currently
 
 - Staff Production Engineer @ **Palo Alto Networks**
-- Starting to build open source tooling for cloud-native infrastructure
-- Figuring out what problems are worth solving publicly
+- Building open source tooling for cloud-native infrastructure
 
 ---
 
