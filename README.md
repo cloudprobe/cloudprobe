@@ -12,9 +12,10 @@
 
 ### what i do
 
-Kubernetes at scale. Multi-cloud infrastructure. Real-time data pipelines. Platforms that make engineers faster.
-
-10+ years in production. The job is making sure nothing interesting happens.
+- Kubernetes at scale across multi-cloud environments
+- Real-time data pipelines and stream processing infrastructure
+- Internal developer platforms that make engineers faster
+- 10+ years in production — the job is making sure nothing interesting happens
 
 ---
 
